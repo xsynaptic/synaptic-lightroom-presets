@@ -1,0 +1,19 @@
+s = {
+	id = "344176AB-84A1-4589-A204-9E4FE0DB04B5",
+	internalName = "ASLR-V Medium 1",
+	title = "ASLR-V Soft Shadow 5",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -52,
+			PostCropVignetteFeather = 71,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 54,
+			PostCropVignetteRoundness = 21,
+			PostCropVignetteStyle = 1,
+		},
+		uuid = "19F3204E-21E6-4573-9CE5-AA4A499AE165",
+	},
+	version = 0,
+}

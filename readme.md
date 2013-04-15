@@ -1,30 +1,30 @@
-# ASLR PRESETS 0.2
+# ASLR PRESETS 0.21
 
-This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. I have included my old presets for Adobe Lightroom 3 but no longer support them.
+This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. I have included my old presets for Adobe Lightroom 3 but no longer support them and will eventually remove them from this repository.
 
 ## INSTALLATION
 
-Download these presets and copy them to your Lightroom presets folder. If you don't know where that is, try this help file:
+Download these presets and copy them to your Lightroom presets folder. If you don't know where it is, try this help file:
 http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
 
 ## USAGE
 
-I recently divided my presets into effects, vignetting, and lens correction. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply vignetting and lens correction (or vice versa). Previously I used the lens correction feature for vignetting. Now all vignetting is done properly with post-crop vignetting effects.
+I recently divided my presets into treatments, effects (e.g. vignetting), and lens correction. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting. Now all vignetting is done properly with post-crop effects.
 
 This is my system of classifying presets:
 
 * ASLR-A: autotoning presets; fire and forget.
 * ASLR-B: presets that include modifications to the basic processing to achieve a particular effect. May require further tweaking.
-* ASLR-E: experimental presets; use with caution.
+* ASLR-L: a few handy shortcuts for lenses I own.
+* ASLR-N: night presets, generally with more noise reduction.
 * ASLR-V: vignetting presets.
-* ASLR-Z: a few handy shortcuts for lenses I own.
 
-Instead of purely descriptive names many of my presets are named after the place where I first developed them. This is a handy mnemonic to have once you start playing around with them.
+Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
 
 ## EXAMPLES
 
 Browse my photography portfolio:
-http://synapticism.com/c/photography
+http://synapticism.com/c/portfolio/photography
 
 ## DONATIONS
 

@@ -1,6 +1,6 @@
-# ASLR PRESETS 0.21
+# SYNAPTIC LIGHTROOM PRESETS 0.3
 
-This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. I have included my old presets for Adobe Lightroom 3 but no longer support them and will eventually remove them from this repository.
+This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow.
 
 ## INSTALLATION
 
@@ -18,12 +18,24 @@ This is my system of classifying presets:
 * ASLR-L: a few handy shortcuts for lenses I own.
 * ASLR-N: night presets, generally with more noise reduction.
 * ASLR-V: vignetting presets.
+* ASLR-X: experimental presets; use with caution.
 
 Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
 
+Here is an example workflow:
+
+* Import photos and switch to the Develop pane.
+* Select all photos in the filmstrip and apply a few presets to start:
+    * Auto tone.
+    * A lens correction preset.
+    * An effects preset for vignetting e.g. "Soft Shadow 1".
+* Run through all imported photos to quickly pick (P) and reject (R).
+* Switch to "flagged" view and only view picks and unflagged photos.
+* Begin working on individual photos by applying a preset and making further modifications as needed.
+
 ## EXAMPLES
 
-Browse my photography portfolio:
+For more examples browse my photography portfolio:
 http://synapticism.com/c/portfolio/photography
 
 ## DONATIONS

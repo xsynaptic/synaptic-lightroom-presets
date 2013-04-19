@@ -42,14 +42,15 @@ http://synapticism.com/c/portfolio/photography
 
 ## DONATIONS
 
-Find these useful? Donations are very welcome!
+Find these presets useful? Donations are very welcome!
 
 * Bitcoin: 124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS
-
-## CREDIT
-
-I would appreciate a link back to my web site (http://synapticism.com) and/or this GitHub repo if you redistribute or modify these presets :)
+* Flattr: http://flattr.com/thing/1266167/
 
 ## LICENCE
 
 Copyright 2012-2013 Alexander Synaptic. Licensed under the GPLv3: http://www.gnu.org/licenses/gpl.txt
+
+Please link back to my web site (http://synapticism.com) and/or this GitHub repository (https://github.com/Synapticism/synaptic-lightroom-presets) if you make use of these presets.
+
+Redistribution is strongly discouraged. I would rather you link back to this repository so that anyone interested in these presets can download the latest version. Thanks!

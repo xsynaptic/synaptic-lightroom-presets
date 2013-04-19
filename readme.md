@@ -45,7 +45,7 @@ http://synapticism.com/c/portfolio/photography
 Find these presets useful? Donations are very welcome!
 
 * Bitcoin: 124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS
-* Flattr: http://flattr.com/thing/1266167/
+* Flattr: http://flattr.com/thing/1266169/
 
 ## LICENCE
 

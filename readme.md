@@ -35,6 +35,8 @@ Here is an example workflow:
 
 ## EXAMPLES
 
+![Synaptic Lightroom Presets Example 1](/example1.png "Synaptic Lightroom Presets Example 1")
+
 For more examples browse my photography portfolio:
 http://synapticism.com/c/portfolio/photography
 

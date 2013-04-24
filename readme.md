@@ -1,11 +1,13 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.3
+# SYNAPTIC LIGHTROOM PRESETS 0.31
 
-This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow.
+This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
 ## INSTALLATION
 
-Download these presets and copy them to your Lightroom presets folder. If you don't know where it is, try this help file:
+Download these presets and copy them to your Lightroom 4+ presets folder. If you don't know where it is, try this help file:
 http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
+
+If you are upgrading I would recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I sometimes delete or rename existing presets.
 
 ## USAGE
 
@@ -46,6 +48,12 @@ Find these presets useful? Donations are very welcome!
 
 * Bitcoin: 124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS
 * Flattr: http://flattr.com/thing/1266169/
+
+## HELP
+
+Please visit Reddit for general help with using Lightroom presets: http://www.reddit.com/r/Lightroom
+
+Discuss these presets here: http://www.reddit.com/r/Lightroom/comments/1cnkf1/my_collection_of_lightroom_presets_is_now/
 
 ## LICENCE
 

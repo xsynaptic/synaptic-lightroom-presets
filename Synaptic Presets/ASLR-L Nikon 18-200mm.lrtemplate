@@ -1,7 +1,7 @@
 s = {
-	id = "3B09AA6A-0954-46C2-A961-65CD3C232103",
-	internalName = "ASLR-Z Nikon 18-55mm",
-	title = "ASLR-L Nikon 18-55mm",
+	id = "C9E9887C-0811-4204-B8EE-96933362321A",
+	internalName = "ASLR-L Nikon 18-200mm",
+	title = "ASLR-L Nikon 18-200mm",
 	type = "Develop",
 	value = {
 		settings = {
@@ -17,15 +17,15 @@ s = {
 			DefringePurpleHueLo = 30,
 			EnableLensCorrections = true,
 			LensProfileChromaticAberrationScale = 100,
-			LensProfileDigest = "5683EB2F3B50BED2C38F2F0557C1280F",
+			LensProfileDigest = "0393084BF82E26E09731385C1949BE99",
 			LensProfileDistortionScale = 100,
 			LensProfileEnable = 1,
-			LensProfileFilename = "NIKON D90 (Nikon AF-S DX NIKKOR 18-55mm f3.5-5.6G VR) - RAW.lcp",
-			LensProfileName = "Adobe (Nikon AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR)",
+			LensProfileFilename = "NIKON D90 (Nikon AF-S DX NIKKOR 18-200mm f3.5-5.6G ED VR II) - RAW.lcp",
+			LensProfileName = "Adobe (Nikon AF-S DX NIKKOR 18-200mm f/3.5-5.6G ED VR II)",
 			LensProfileSetup = "Custom",
 			LensProfileVignettingScale = 100,
 		},
-		uuid = "F2BE8935-64B9-42F2-AABC-2C24C57F95F2",
+		uuid = "9B287977-C0EC-49E3-A3D6-9658C1A6D9CC",
 	},
 	version = 0,
 }

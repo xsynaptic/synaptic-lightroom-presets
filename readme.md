@@ -1,4 +1,4 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.31
+# SYNAPTIC LIGHTROOM PRESETS 0.32
 
 This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
@@ -9,31 +9,42 @@ http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
 
 If you are upgrading I would recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I sometimes delete or rename existing presets.
 
+If you plan to modify my presets for your own usage but wish to keep updated I would recommend forking this project and learning the ins and outs of GitHub.
+
 ## USAGE
 
-I recently divided my presets into treatments, effects (e.g. vignetting), and lens correction. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting. Now all vignetting is done properly with post-crop effects.
+I recently divided my presets into treatments, effects (e.g. vignetting), and lens corrections. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting but this is the wrong way to apply such an effect. Now all vignetting is done properly with post-crop effects.
+
+### CLASSIFICATION
 
 This is my system of classifying presets:
 
 * ASLR-A: autotoning presets; fire and forget.
 * ASLR-B: presets that include modifications to the basic processing to achieve a particular effect. May require further tweaking.
-* ASLR-L: a few handy shortcuts for lenses I own.
+* ASLR-L: lens correction presets (including a few lenses I use).
 * ASLR-N: night presets, generally with more noise reduction.
 * ASLR-V: vignetting presets.
-* ASLR-X: experimental presets; use with caution.
+* ASLR-X: experimental presets; use with caution or delete indiscriminately.
 
 Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
 
-Here is an example workflow:
+### WORKFLOW
 
-* Import photos and switch to the Develop pane.
-* Select all photos in the filmstrip and apply a few presets to start:
+Here is an outline of my workflow:
+
+* Import photos into date-based folders while applying a metadata preset. (This metadata preset is not included here but it is easy to make your own and apply it when importing new photos. I set the basics *e.g.* copyright status, contact information, etc.)
+* Switch to the develop module, select all photos in the filmstrip at the bottom, and apply several develop presets in bulk:
     * Auto tone.
-    * A lens correction preset.
-    * An effects preset for vignetting e.g. "Soft Shadow 1".
-* Run through all imported photos to quickly pick (P) and reject (R).
-* Switch to "flagged" view and only view picks and unflagged photos.
-* Begin working on individual photos by applying a preset and making further modifications as needed.
+    * Auto lens correction, which is included in my presets. (Assuming your camera stores lens information in the metadata for an image this should work every time.)
+    * An effects preset for light vignetting e.g. "Soft Shadow 2".
+* Browse through all newly imported photos to quickly pick (P) or reject (R). Skip to the next photo when uncertain. Then filter by flagged and unflagged. (This feature is available in the bottom right of the develop module just above the filmstrip.) The purpose of this step is to focus on the photos worth working on.
+* Now it is time to get creative: apply presets to individual photos and modify as needed. Remember: presets are often just a starting point for further experimentation! Along the way make sure to flag photos for export and unflag photos that do not make the cut.
+* Add essential metadata to all finalized photos:
+    * Filter by flagged photos only.
+    * Add location data using the map module.
+    * Add a title using the library module.
+* Export all finalized photos.
+* Clean up workspace by filtering by rejected photos and deleting those from disk.
 
 ## EXAMPLES
 

@@ -50,7 +50,10 @@ Here is an outline of my workflow:
 
 ![Synaptic Lightroom Presets Example 1](/example1.png "Synaptic Lightroom Presets Example 1")
 
-For more examples browse my photography portfolio:
+For more examples find me on Flickr:
+http://www.flickr.com/photos/synapticism
+
+Or check out a selection of my work in my photography portfolio:
 http://synapticism.com/c/portfolio/photography
 
 ## DONATIONS
@@ -62,9 +65,13 @@ Find these presets useful? Donations are very welcome!
 
 ## HELP
 
-Please visit Reddit for general help with using Lightroom presets: http://www.reddit.com/r/Lightroom
+Please visit Reddit or Flickr for general help with using Lightroom presets:
+http://www.reddit.com/r/Lightroom
+http://www.flickr.com/groups/adobe_lightroom/
 
-Discuss these presets here: http://www.reddit.com/r/Lightroom/comments/1cnkf1/my_collection_of_lightroom_presets_is_now/
+Discuss these presets here:
+http://www.reddit.com/r/Lightroom/comments/1cnkf1/my_collection_of_lightroom_presets_is_now/
+http://www.flickr.com/groups/adobe_lightroom/discuss/72157633377500237/
 
 ## LICENCE
 

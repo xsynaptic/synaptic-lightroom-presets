@@ -1,0 +1,25 @@
+s = {
+	id = "27F5BBEF-90D8-4C30-92C8-39AF8132E23D",
+	internalName = "ASLR-Z Nikon 35mm f/1.8",
+	title = "ASLR-0 Lens Correction",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoLateralCA = 1,
+			ChromaticAberrationB = 0,
+			ChromaticAberrationR = 0,
+			Defringe = 0,
+			DefringeGreenAmount = 0,
+			DefringeGreenHueHi = 60,
+			DefringeGreenHueLo = 40,
+			DefringePurpleAmount = 0,
+			DefringePurpleHueHi = 70,
+			DefringePurpleHueLo = 30,
+			EnableLensCorrections = true,
+			LensProfileEnable = 1,
+			LensProfileSetup = "Auto",
+		},
+		uuid = "55E7D34E-1AB0-49BF-8F1F-33F8E12C1A39",
+	},
+	version = 0,
+}

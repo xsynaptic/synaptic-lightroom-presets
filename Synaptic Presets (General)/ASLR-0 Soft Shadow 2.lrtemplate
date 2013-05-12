@@ -1,0 +1,19 @@
+s = {
+	id = "A1B1C030-64C5-49A7-9B36-34374E589F17",
+	internalName = "ASLR-V Soft Shadow 2",
+	title = "ASLR-0 Soft Shadow 2",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -33,
+			PostCropVignetteFeather = 60,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 75,
+			PostCropVignetteRoundness = -33,
+			PostCropVignetteStyle = 1,
+		},
+		uuid = "2BB7B490-6AC8-4A5D-8B69-A1AE1B982815",
+	},
+	version = 0,
+}

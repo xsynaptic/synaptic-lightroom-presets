@@ -61,7 +61,7 @@ Find these presets useful? Donations are very welcome!
 * Bitcoin: 124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS
 * Flattr: http://flattr.com/thing/1266169/
 
-## HELP
+## SUPPORT
 
 Please visit Reddit or Flickr for general help with using Lightroom presets:
 http://www.reddit.com/r/Lightroom
@@ -71,7 +71,7 @@ Discuss these presets here:
 http://www.reddit.com/r/Lightroom/comments/1cnkf1/my_collection_of_lightroom_presets_is_now/
 http://www.flickr.com/groups/adobe_lightroom/discuss/72157633377500237/
 
-## LICENCE
+## LICENSE
 
 Copyright 2012-2013 Alexander Synaptic. Licensed under the GPLv3: http://www.gnu.org/licenses/gpl.txt
 

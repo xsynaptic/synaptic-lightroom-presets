@@ -1,7 +1,7 @@
 s = {
 	id = "5220E6BE-079F-4F70-8930-65B74327F41D",
 	internalName = "ASLR-V Soft 2",
-	title = "ASLR-0 Soft Shadow 3",
+	title = "Soft Shadow 3",
 	type = "Develop",
 	value = {
 		settings = {

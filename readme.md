@@ -1,4 +1,4 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.4
+# SYNAPTIC LIGHTROOM PRESETS 0.5
 
 This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
@@ -7,7 +7,7 @@ This is a collection of presets for Adobe Lightroom 4+ that I regularly use in m
 Download these presets and copy them to your Lightroom 4+ presets folder. If you don't know where it is, try this help file:
 http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
 
-If you are upgrading I would recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I sometimes delete or rename existing presets or even entire folders.
+If you are upgrading I would strongly recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I sometimes delete or rename existing presets or even entire folders to improve my workflow.
 
 If you plan to modify my presets for your own usage but wish to keep updated I would recommend forking this project and learning the ins and outs of GitHub.
 
@@ -17,12 +17,12 @@ I recently divided my presets into treatments, effects (*e.g.* vignetting), and 
 
 ### FOLDERS
 
-I am in the process of moving from a system of classification based on coded prefixes to one based on folders. Things may seem a little strange for a while but there is a twisted kind of logic at work here. Nowadays I am grouping my presets into the following folders:
+I am in the process of moving from a system of classification based on coded prefixes to one based on folders. Things may seem a little strange for a while but there is a twisted kind of logic at work here. Nowadays I am grouping my presets into folders by year. Some notes:
 
-* General (prev. ASLR-L, ASLR-V): handy shortcuts for lens correction and vignetting.
-* Autotone: fire and forget.
-* Custom: presets that include modifications to the basics to achieve a particular effect. You may need to tweak the results depending on the exposure value of your photos.
-* Experimental: everything else, including the "night" presets I was dabbling with earlier. Use with caution or delete this folder indiscriminately; these presets aren't really meant for prime time.
+* Presets suffixed with `(A)` refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
+* Presets without autotone may seem too light or too dark for your photos. You may need to tweak the results depending on the exposure value of your photos.
+* Experimental: everything else, including the "night" presets I was dabbling with earlier, presets I no longer use, etc. Use with caution or delete this folder indiscriminately.
+* General: lens correction, shadowing, etc.
 
 Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
 
@@ -34,14 +34,14 @@ Here is an outline of my workflow:
     * The develop preset I apply by default combines lens correction with a soft shadow. This preset is available in the "general" folder.
     * A metadata preset is not included here but it is easy to make your own and apply it when importing new photos. I set the basics *e.g.* copyright status, contact information, etc.)
 * Browse through all newly imported photos to quickly pick (P) or reject (R). Skip to the next photo when uncertain. Then filter by flagged and unflagged. (This feature is available in the bottom right of the develop module just above the filmstrip.) The purpose of this step is to focus on the photos worth working on.
-* Now it is time to get creative: apply presets to individual photos and modify as needed. Often when I work on a given shoot I will apply the same preset to each photo as a base and then edit from there. Remember: presets are often just a starting point for further experimentation! Along the way make sure to flag photos for export and unflag photos that do not make the cut.
+* Now it is time to get creative: apply treatment presets to individual photos and modify as needed. Often when I work on a given shoot I will apply the same preset to each photo as a base and then edit from there. Remember: presets are often just a starting point for further experimentation! Along the way make sure to flag photos for export and unflag photos that do not make the cut.
 * Add essential metadata to all finalized photos:
     * Filter by flagged photos only.
     * Add location data using the map module.
     * Add a title using the library module.
 * Export all finalized photos.
     * Full-size copies for Flickr and archival purposes.
-    * 1920 px on a side copies for Facebook, blogging, and mobile use.
+    * 1920 px per side copies for Facebook, blogging, and mobile use.
 * Clean up workspace by deleting rejected photos from disk.
 
 ## EXAMPLES
@@ -77,4 +77,4 @@ Copyright 2013 Alexander Synaptic. Licensed under the GPLv3: http://www.gnu.org/
 
 Please link back to my web site (http://synapticism.com) and/or this GitHub repository (https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets.
 
-Redistribution is strongly discouraged. I would rather you link back to this repository so that anyone interested in these presets can download the latest version. Thanks!
+*Redistribution is strongly discouraged.* I would rather you link back to this repository so that anyone interested in these presets can download the latest version. Thanks!

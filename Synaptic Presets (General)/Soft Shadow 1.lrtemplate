@@ -6,14 +6,15 @@ s = {
 	value = {
 		settings = {
 			EnableEffects = true,
-			PostCropVignetteAmount = -28,
-			PostCropVignetteFeather = 54,
+			PostCropVignetteAmount = -23,
+			PostCropVignetteFeather = 57,
 			PostCropVignetteHighlightContrast = 0,
 			PostCropVignetteMidpoint = 74,
 			PostCropVignetteRoundness = -13,
 			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
 		},
-		uuid = "17B0E631-E8B4-486B-B2C8-0A89F9ACDF8F",
+		uuid = "A91853E6-4B1B-492A-82E7-067756C60043",
 	},
 	version = 0,
 }

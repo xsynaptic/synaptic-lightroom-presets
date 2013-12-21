@@ -1,4 +1,4 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.5
+# SYNAPTIC LIGHTROOM PRESETS 0.6
 
 This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
@@ -7,22 +7,28 @@ This is a collection of presets for Adobe Lightroom 4+ that I regularly use in m
 Download these presets and copy them to your Lightroom 4+ presets folder. If you don't know where it is, try this help file:
 http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
 
-If you are upgrading I would strongly recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I sometimes delete or rename existing presets or even entire folders to improve my workflow.
+If you are upgrading I **strongly** recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I regularly delete or rename existing presets or even entire folders to improve my workflow.
 
-If you plan to modify my presets for your own usage but wish to keep updated I would recommend forking this project and learning the ins and outs of GitHub.
+If you plan to modify my presets for your own usage but wish to keep updated I would suggest forking this project and learning the ins and outs of GitHub.
 
 ## USAGE
 
-I recently divided my presets into treatments, effects (*e.g.* vignetting), and lens corrections. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting but this is the wrong way to apply such an effect. Now all vignetting is done properly with post-crop effects.
+I recently divided my presets into treatments, effects (*e.g.* vignetting), lens correction, and noise reduction. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting but this is the wrong way to apply such an effect. Now all vignetting is done properly with post-crop effects. Similarly, my older presets included noise reduction values, but this isn't a smart approach. Noise reduction is now accomplished with a set of additional presets in the General folder.
 
-### FOLDERS
+Just to be clear, you will probably want to apply three different *classes* of preset to each photograph you work on:
 
-I am in the process of moving from a system of classification based on coded prefixes to one based on folders. Things may seem a little strange for a while but there is a twisted kind of logic at work here. Nowadays I am grouping my presets into folders by year. Some notes:
+* A treatment (anything not under General).
+* Vignetting (the "soft shadow" presets under General).
+* Noise reduction (also under General).
+
+### ORGANIZATION
+
+Nowadays I am grouping my presets into folders by year. Some notes:
 
 * Presets suffixed with `(A)` refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
 * Presets without autotone may seem too light or too dark for your photos. You may need to tweak the results depending on the exposure value of your photos.
 * Experimental: everything else, including the "night" presets I was dabbling with earlier, presets I no longer use, etc. Use with caution or delete this folder indiscriminately.
-* General: lens correction, shadowing, etc.
+* General: lens correction, noise reduction, vignetting, etc.
 
 Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
 
@@ -31,10 +37,11 @@ Instead of purely descriptive names many of my presets are named after the place
 Here is an outline of my workflow:
 
 * Import photos into date-based folders while applying develop and metadata presets.
-    * The develop preset I apply by default combines lens correction with a soft shadow. This preset is available in the "general" folder.
+    * The develop preset I apply by default combines lens correction with soft vignetting. This preset is available in the "general" folder.
     * A metadata preset is not included here but it is easy to make your own and apply it when importing new photos. I set the basics *e.g.* copyright status, contact information, etc.)
 * Browse through all newly imported photos to quickly pick (P) or reject (R). Skip to the next photo when uncertain. Then filter by flagged and unflagged. (This feature is available in the bottom right of the develop module just above the filmstrip.) The purpose of this step is to focus on the photos worth working on.
 * Now it is time to get creative: apply treatment presets to individual photos and modify as needed. Often when I work on a given shoot I will apply the same preset to each photo as a base and then edit from there. Remember: presets are often just a starting point for further experimentation! Along the way make sure to flag photos for export and unflag photos that do not make the cut.
+* Apply noise reduction and vignetting presets, often in bulk. This can be done before or after working with treatments.
 * Add essential metadata to all finalized photos:
     * Filter by flagged photos only.
     * Add location data using the map module.

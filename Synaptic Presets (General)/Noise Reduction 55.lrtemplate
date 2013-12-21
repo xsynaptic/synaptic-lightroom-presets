@@ -1,0 +1,23 @@
+s = {
+	id = "CAB035F0-041C-4B12-B9AF-835FEC8348E9",
+	internalName = "Noise Reduction 55",
+	title = "Noise Reduction 55",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 55,
+			ColorNoiseReductionDetail = 45,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 55,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 15,
+		},
+		uuid = "FEF531F9-59FB-4520-B411-291538BDCB16",
+	},
+	version = 0,
+}

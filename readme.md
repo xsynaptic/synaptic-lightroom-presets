@@ -52,7 +52,9 @@ Here is an outline of my workflow:
 
 ## EXAMPLES
 
-![Synaptic Lightroom Presets Example 1](/example1.png "Synaptic Lightroom Presets Example 1")
+![Synaptic Lightroom Presets - Example 1](/synaptic-lightroom-presets-example-1.png "Synaptic Lightroom Presets - Example 1")
+
+![Synaptic Lightroom Presets - Example 2](/synaptic-lightroom-presets-example-2.png "Synaptic Lightroom Presets - Example 2")
 
 For more examples find me on Flickr:
 http://www.flickr.com/photos/synapticism

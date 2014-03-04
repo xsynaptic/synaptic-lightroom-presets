@@ -1,0 +1,19 @@
+s = {
+	id = "C0FF4CC4-27A0-469A-A3AF-841B9EAAA759",
+	internalName = "Soft Shadow 0",
+	title = "Dark Vignette 0",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -16,
+			PostCropVignetteFeather = 77,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 74,
+			PostCropVignetteRoundness = -13,
+			PostCropVignetteStyle = 1,
+		},
+		uuid = "974440F6-2F06-49E8-B1DA-FB11EC1F57EA",
+	},
+	version = 0,
+}

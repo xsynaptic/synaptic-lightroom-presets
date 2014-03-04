@@ -1,0 +1,20 @@
+s = {
+	id = "C7EB2FC9-FFDA-4B75-911C-0EA2AE53422B",
+	internalName = "ASLR-V Soft 1",
+	title = "Dark Vignette 1",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -23,
+			PostCropVignetteFeather = 57,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 74,
+			PostCropVignetteRoundness = -13,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "A91853E6-4B1B-492A-82E7-067756C60043",
+	},
+	version = 0,
+}

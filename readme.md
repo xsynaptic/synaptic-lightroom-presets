@@ -1,4 +1,4 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.6
+# SYNAPTIC LIGHTROOM PRESETS 0.7
 
 This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
@@ -7,40 +7,39 @@ This is a collection of presets for Adobe Lightroom 4+ that I regularly use in m
 Download these presets and copy them to your Lightroom 4+ presets folder. If you don't know where it is, try this help file:
 http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html
 
-If you are upgrading I **strongly** recommend deleting the entire Synaptic Presets folder and reinstalling rather that overwriting files. I regularly delete or rename existing presets or even entire folders to improve my workflow.
+If you are upgrading I **strongly** recommend deleting the entire `Synaptic Presets` folder and reinstalling rather that overwriting files. I regularly rename or delete existing presets and folders as I work.
 
-If you plan to modify my presets for your own usage but wish to keep updated I would suggest forking this project and learning the ins and outs of GitHub.
+If you plan to modify my presets for your own usage but wish to remain updated I would suggest forking this project and learning the ins and outs of GitHub.
 
-## USAGE
+## USAGE & ORGANIZATION
 
-I recently divided my presets into treatments, effects (*e.g.* vignetting), lens correction, and noise reduction. Presets from different groups do not overwrite any settings from the others; you can safely play with effects and later apply treatments and lens correction (or vice versa). Previously I used the lens correction feature for vignetting but this is the wrong way to apply such an effect. Now all vignetting is done properly with post-crop effects. Similarly, my older presets included noise reduction values, but this isn't a smart approach. Noise reduction is now accomplished with a set of additional presets in the General folder.
+I recently divided my develop presets into several different folders:
 
-Just to be clear, you will probably want to apply three different *classes* of preset to each photograph you work on:
+* General: lens correction and noise reduction.
+* Series 1: treatments from 2011 and earlier.
+* Series 2: treatments from 2012.
+* Series 3: treatments from 2013 to the present day.
+* Vignetting: exactly as it says on the tin.
 
-* A treatment (anything not under General).
-* Vignetting (the "soft shadow" presets under General).
-* Noise reduction (also under General).
+All presets in the main series folders do not affect lens correction, noise reduction, or vignetting, all of which should be applied seperately. The purpose of this is explained below.
 
-### ORGANIZATION
+Some additional notes:
 
-Nowadays I am grouping my presets into folders by year. Some notes:
+* Presets with `(A)` refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
+* Presets with `(W)` alter white balance, often to achieve a desired effect.
 
-* Presets suffixed with `(A)` refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
-* Presets without autotone may seem too light or too dark for your photos. You may need to tweak the results depending on the exposure value of your photos.
-* Experimental: everything else, including the "night" presets I was dabbling with earlier, presets I no longer use, etc. Use with caution or delete this folder indiscriminately.
-* General: lens correction, noise reduction, vignetting, etc.
-
-Instead of purely descriptive names many of my presets are named after the places where I first developed them. This is a handy mnemonic to have once you start playing around with them.
+Instead of purely descriptive names many of my presets are named after the places I have been. I find this system useful as a mnemonic.
 
 ### WORKFLOW
 
 Here is an outline of my workflow:
 
 * Import photos into date-based folders while applying develop and metadata presets.
-    * The develop preset I apply by default combines lens correction with soft vignetting. This preset is available in the "general" folder.
-    * A metadata preset is not included here but it is easy to make your own and apply it when importing new photos. I set the basics *e.g.* copyright status, contact information, etc.)
+    * The develop preset I apply by default is "Lens Correction Plus", which combines lens correction with light noise reduction and vignetting. This preset is available in the "general" folder.
+    * A metadata preset is not included here but it is easy to make your own and apply it when importing new photos. I set the basics *e.g.* copyright status, contact information, etc.) so I don't need to think about it later.
 * Browse through all newly imported photos to quickly pick (P) or reject (R). Skip to the next photo when uncertain. Then filter by flagged and unflagged. (This feature is available in the bottom right of the develop module just above the filmstrip.) The purpose of this step is to focus on the photos worth working on.
-* Now it is time to get creative: apply treatment presets to individual photos and modify as needed. Often when I work on a given shoot I will apply the same preset to each photo as a base and then edit from there. Remember: presets are often just a starting point for further experimentation! Along the way make sure to flag photos for export and unflag photos that do not make the cut.
+* Pick a representative photo and try out different treatments to settle on a base for further manipulation. Apply this treatment to the rest of the photos being processed.
+* Work through the photos one by one to make individual modifications. If the same modification is being made on many photos this usually indicates a preset should be updated or created.
 * Apply noise reduction and vignetting presets, often in bulk. This can be done before or after working with treatments.
 * Add essential metadata to all finalized photos:
     * Filter by flagged photos only.
@@ -61,11 +60,15 @@ http://www.flickr.com/photos/synapticism
 Or check out a selection of my work in my photography portfolio:
 http://synapticism.com/c/portfolio/photography
 
+Or "like" me on Facebook:
+https://www.facebook.com/synaptic.imagery
+
 ## DONATIONS
 
 Find these presets useful? Donations are very welcome!
 
-* Bitcoin: 124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS
+* Bitcoin: **124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS**
+* Dogecoin: **DMTqKumNjutVuw6aogV4EsxkFaj4AbirUb**
 * Flattr: http://flattr.com/thing/1266169/
 
 ## SUPPORT
@@ -80,7 +83,7 @@ http://www.flickr.com/groups/adobe_lightroom/discuss/72157633377500237/
 
 ## LICENSE
 
-Copyright 2013 Alexander Synaptic. Licensed under the GPLv3: http://www.gnu.org/licenses/gpl.txt
+Copyright 2013-2014 Alexander Synaptic. Licensed under the GPLv3: http://www.gnu.org/licenses/gpl.txt
 
 Please link back to my web site (http://synapticism.com) and/or this GitHub repository (https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets.
 

@@ -1,0 +1,19 @@
+s = {
+	id = "BA45EF22-2B03-4142-A18F-E668DEF5B23F",
+	internalName = "ASLR-V Soft Shadow 4",
+	title = "Dark Vignette 4",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -46,
+			PostCropVignetteFeather = 57,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 67,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+		},
+		uuid = "CF07E8B2-7A9D-4A45-A14D-10048230606F",
+	},
+	version = 0,
+}

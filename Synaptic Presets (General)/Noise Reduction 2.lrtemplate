@@ -1,0 +1,23 @@
+s = {
+	id = "D14C386B-F84E-47DB-8AF8-5AB4F33B31FA",
+	internalName = "Noise Reduction 35",
+	title = "Noise Reduction 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 35,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 35,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "8DCBD2D5-5BF2-4782-B5C7-6AC489C2F012",
+	},
+	version = 0,
+}

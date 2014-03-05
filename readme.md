@@ -28,27 +28,22 @@ Some additional notes:
 * Presets marked (A) refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
 * Presets marked (W) alter white balance, often to achieve a desired effect.
 * Instead of purely descriptive names many of my presets are named after the places I have been. I find this system useful as a mnemonic but it takes some getting used to.
-* All presets in the main series folders do not affect lens correction, noise reduction, or vignetting, all of which should be applied seperately.
+* All presets in the main series folders do not affect lens correction, noise reduction, or vignetting, all of which should be applied separately.
 
 ### WORKFLOW
 
-Here is an outline of my workflow:
+Here is an outline of my workflow, which is optimized for rapid processing:
 
-* I import photos into date-based folders and apply default presets.
-    * The develop preset I apply is "Lens Correction Plus", which combines lens correction with a hint of noise reduction and vignetting. This preset is available in the "general" folder.
-    * I also apply a metadata preset not included here. You will want to make your own to specify the basics *e.g.* copyright status, contact information, etc.
-* I then browse through all newly imported photos to quickly pick (P) or reject (R), skipping ahead whenever I am uncertain. My goal here is to reduce the number of photos I will be working with. Once I have run through everything I have imported I filter out anything I have rejected. (This feature is available in the bottom right of the develop module just above the filmstrip.) The purpose of this step is to focus on the photos worth working on.
-* Pick a representative photo and try out different treatments to settle on a base for further manipulation. Apply this treatment to the rest of the photos being processed.
-* Work through the photos one by one to make individual modifications. If the same modification is being made on many photos this usually indicates a preset should be updated or created.
-* Apply noise reduction and vignetting presets, often in bulk. This can be done before or after working with treatments.
-* Add essential metadata to all finalized photos:
-    * Filter by flagged photos only.
-    * Add location data using the map module.
-    * Add a title using the library module.
-* Export all finalized photos.
-    * Full-size copies for Flickr and archival purposes.
-    * 1920 px per side copies for Facebook, blogging, and mobile use.
-* Clean up workspace by deleting rejected photos from disk.
+1. Import photos into date-based folders and apply default presets. I use the "Lens Correction Plus" preset (under "General") which combines lens correction with a hint of noise reduction and vignetting. I also use a metadata preset (not included) to cover the basics *e.g.* copyright status (or lack thereof), contact information, etc.
+2. Browse through the newly imported photos to identify *obvious* picks (keyboard shortcut "P") or rejects ("R"). The idea here is to work fast to reduce the number of photos that need to be processed. Finish up by filtering the current import by flagged and unflagged photos. (This hides rejected photos.)
+3. Pick a representative photo from a batch of photos shot with similar lighting conditions. Try out different presets to get a rough idea of what looks good. Test out the difference between auto white balance and "as shot". Experiment with different vignetting levels. Zoom in and gauge how much noise there is. The idea here is to come up with a plan of attack for the rest of the photos in the series.
+4. Select a bunch of photos in the film strip (at the bottom) and apply presets in batch. Start with noise reduction and vignetting and apply toning treatments last. Think of this as a "base coat" for your photos.
+5. Start working through the photos, making individual modifications as you go. Generally speaking, once I set a base coat most of my modifications are limited to the "Basic" and "Tone Curve" tools. My style is to reduce highlights, increase shadows, and push contrast to make my photos more vivid and dreamlike. I seldom finalize photos without further tweaks of the initial preset.
+6. If you find yourself making the same modification to several photos in a row (for example, reducing blue saturation), then it may be time to spin off a new preset for batch processing. Smaller changes can easily be accommodated by the "copy settings from previous" command. I try to leave cropping and graduated filters to the end specifically so I can copy settings from one photo to another without extra hassle.
+7. Eventually I run through and use the pick, unflag ("U"), and reject shortcuts to finalize what photos will be prepared for export, kept around but otherwise left alone, or deleted from disk. Prepare for the next step by filtering by flagged photos only.
+8. Metadata time! Most people probably don't care about this stuff but I am very OCD about adding titles and location data (using the excellent map module) to finalize the photos I plan to upload. Since I go by memory when geotagging photos I find this is easiest immediately after processing (with the images fresh in my mind).
+9. Export all finalized photos in two batches: full-size copies for Flickr and archival purposes and 1920 px copies for Facebook, blogging, and mobile use.
+10. Clean up workspace by deleting all rejected photos from disk (there is a shortcut for this).
 
 ## EXAMPLES
 
@@ -60,7 +55,7 @@ Here is an outline of my workflow:
 
 ## DONATIONS
 
-Do you find these presets useful? Donations are very welcome!
+If you find these presets useful please consider making a donation! Not only do I give my presets away but my photos are also released under a Creative Commons license. My entire livelihood is based on free culture, in fact. This only works if people are generous! (Assuming, of course, that anyone derives value from my work.) Here are a variety of ways you can support me:
 
 * Bitcoin: **124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS**
 * Dogecoin: **DMTqKumNjutVuw6aogV4EsxkFaj4AbirUb**

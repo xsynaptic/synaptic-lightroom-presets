@@ -1,4 +1,4 @@
-# SYNAPTIC LIGHTROOM PRESETS 0.7
+# SYNAPTIC LIGHTROOM PRESETS 0.8
 
 This is a collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely. Enjoy!
 
@@ -18,17 +18,17 @@ If you plan to modify my presets for your own usage but wish to remain updated I
 I recently divided my develop presets into several different folders:
 
 * General: lens correction and noise reduction.
-* Series 1: treatments from 2011 and earlier.
-* Series 2: treatments from 2012.
-* Series 3: treatments from 2013 to the present day. These are generally what I use on a day-to-day basis.
+* Series 1 through 4: the treatments themselves.
 * Vignetting: exactly as it says on the tin.
 
 Some additional notes:
 
 * Presets marked (A) refer to autotone; you may wish to adjust toning in the basic panel to achieve a different look.
 * Presets marked (W) alter white balance, often to achieve a desired effect.
+* The presets in the Series folders are organized roughly from oldest to newest. Usually I only work with the latest presets I have developed. If you are evaluating these presets I suggest you play around with Series 3 and 4.
+* The present number (e.g. Changhua 1 or Hong Kong 2) don't mean anything in particular. When I work I sometimes find that I am making the same small adjustments over and over again. Sometimes I will just spin out a new preset that is usually quite close to the original. A higher number doesn't mean the preset is better or more refined, only that a variation worked well on particular batch of photos I was processing at the time.
 * Instead of purely descriptive names many of my presets are named after the places I have been. I find this system useful as a mnemonic but it takes some getting used to.
-* All presets in the main series folders do not affect lens correction, noise reduction, or vignetting, all of which should be applied separately.
+* **All presets in the Series folders do not alter lens correction, noise reduction, or post-crop vignetting.** This way you can freely use the presets in the other folders in batch, before or after settling on the look and feel of a photograph.
 
 ### WORKFLOW
 
@@ -43,7 +43,7 @@ Here is an outline of my workflow, which is optimized for rapid processing:
 7. Eventually I run through and use the pick, unflag ("U"), and reject shortcuts to finalize what photos will be prepared for export, kept around but otherwise left alone, or deleted from disk. Prepare for the next step by filtering by flagged photos only.
 8. Metadata time! Most people probably don't care about this stuff but I am very OCD about adding titles and location data (using the excellent map module) to finalize the photos I plan to upload. Since I go by memory when geotagging photos I find this is easiest immediately after processing (with the images fresh in my mind).
 9. Export all finalized photos in two batches: full-size copies for Flickr and archival purposes and 1920 px copies for Facebook, blogging, and mobile use.
-10. Clean up workspace by deleting all rejected photos from disk (there is a shortcut for this).
+10. Clean up workspace by deleting all rejected photos from disk.
 
 ## EXAMPLES
 
@@ -51,7 +51,7 @@ Here is an outline of my workflow, which is optimized for rapid processing:
 
 ![Synaptic Lightroom Presets - Example 2](/synaptic-lightroom-presets-example-2.png "Synaptic Lightroom Presets - Example 2")
 
-**For more examples [follow me on Flickr](http://www.flickr.com/photos/synapticism), check out a selection of my work in [my photography portfolio](http://synapticism.com/c/portfolio/photography), or [like me on Facebook](https://www.facebook.com/synaptic.imagery)!**
+**For more examples of my work in Lightroom check out [Synaptic Imagery](http://synapticimagery.com), my semi-professional photography homepage; [Synapticism](http://synapticism.com/c/photography), my regularly updated blog; [Flickr](http://www.flickr.com/photos/synapticism); and [Facebook](https://www.facebook.com/synaptic.imagery).**
 
 ## DONATIONS
 

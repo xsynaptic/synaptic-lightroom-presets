@@ -64,7 +64,7 @@ Here is an outline of my workflow, which is optimized for rapid processing:
 
 ![Synaptic Lightroom Presets Sample - Maokong](/Samples/synaptic-lightroom-presets-sample-maokong.jpg "Synaptic Lightroom Presets Sample - Maokong")
 
-[Additional samples are available on the release announcement on my blog](http://synapticism.com/synaptic-lightroom-presets-08).
+[Additional samples are available on the release announcement on my blog](http://synapticism.com/synaptic-lightroom-presets-1).
 
 **For even more examples of my work in Lightroom check out [Synaptic Imagery](http://synapticimagery.com), my semi-professional photography homepage; [Synapticism](http://synapticism.com/tag/photography), my regularly updated photo blog; [Flickr](http://www.flickr.com/photos/synapticism); and [Facebook](https://www.facebook.com/synaptic.imagery).**
 

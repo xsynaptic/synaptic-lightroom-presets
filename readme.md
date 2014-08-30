@@ -2,7 +2,7 @@
 
 This is an evolving collection of presets for Adobe Lightroom 4+ that I regularly use in my post-processing workflow. In the spirit of the open source software movement I am sharing them freely for everyone to use, learn from, and adapt.
 
-![Synaptic Lightroom Presets](/Samples/synaptic-lightroom-presets-banner "Synaptic Lightroom Presets")
+![Synaptic Lightroom Presets](/Samples/synaptic-lightroom-presets-banner.jpg "Synaptic Lightroom Presets")
 
 ## INSTALLATION
 

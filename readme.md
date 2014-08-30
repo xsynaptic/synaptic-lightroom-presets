@@ -18,9 +18,9 @@ Please read this document carefully to get the most out of these presets. Many c
 
 I divide my development presets into different folders, each representing a different category of preset:
 
-* General: lens correction and noise reduction; the subtle stuff you won't see when you're zoomed out.
-* Series 1 to 3: tone curve, colour, saturation, luminance, split toning, and camera calibration settings.
-* Vignetting: post-crop effects to add shadows independently of other treatments.
+* **General**: lens correction and noise reduction; the subtle stuff you won't see when you're zoomed out.
+* **Series 1 to 3**: tone curve, colour, saturation, luminance, split toning, and camera calibration settings.
+* **Vignetting**: post-crop effects to add shadows independently of other treatments.
 
 Presets in each category do not affect the settings of any other. This modular approach facilitates easier batch processing. An example: you can select a bunch of photos and adjust noise reduction or vignetting without affecting the colour treatment.
 
@@ -82,8 +82,8 @@ Please visit [Reddit](http://www.reddit.com/r/Lightroom) or [Flickr](http://www.
 
 ## LICENSE
 
-Copyright 2013-2014 [Alexander Synaptic](http://alexandersynaptic.com). Licensed under the GPLv3: http://www.gnu.org/licenses/gpl.txt
+Imagery copyright 2013-2014 [Alexander Synaptic](http://alexandersynaptic.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
 
-Please link back to [my web site](http://synapticism.com) and/or [this GitHub repository](https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets.
+Please link back to [my web site](http://synapticism.com) and/or [this GitHub repository](https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets!
 
-*Redistribution is strongly discouraged.* I would rather you link back to this repository so that anyone interested in these presets can download the latest version. *Thanks!*
+*Redistribution of these presets is strongly discouraged.* I would much rather you link back to this repository so that anyone interested in these presets can download the latest version. *Thanks!*

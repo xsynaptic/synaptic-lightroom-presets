@@ -6,7 +6,7 @@ This is an evolving collection of presets for Adobe Lightroom 4+ that I regularl
 
 ## INSTALLATION
 
-[Download and unpack this archive](https://github.com/synapticism/synaptic-lightroom-presets/archive/master.zip) and copy the preset folders to your Lightroom 4+ presets directory. If you don't know where it is, try [this help file](http://helpx.adobe.com/lightroom/kb/preference-file-locations-lightroom-4.html).
+[Download and unpack this archive](https://github.com/synapticism/synaptic-lightroom-presets/archive/master.zip) and copy the folders beginning with `Synaptic Presets` to your Lightroom 4+ presets folder. To find your presets folder try searching your system for `Develop Presets`. Alternately, open up `Preferences`, select the `Presets` tab, and click on `Show Lightroom Presets Folder`. The `Synaptic Presets` folders should be copied into `Develop Presets`.
 
 If you are upgrading I **strongly** recommend deleting every `Synaptic Presets` directory (unless you have made modifications of your own, of course). I regularly rename or delete existing presets and folders as I work and simply overwriting files won't necessarily give you the most current collection of presets. The latest version always represents the most finely tuned and current set of presets from my collection.
 

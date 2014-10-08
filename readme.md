@@ -21,7 +21,7 @@ Please read this document carefully to get the most out of these presets. Many c
 I divide my development presets into different folders, each representing a different category of preset:
 
 * **General**: lens correction and noise reduction; the subtle stuff you won't see when you're zoomed out.
-* **Series 1 to 3**: tone curve, colour, saturation, luminance, split toning, and camera calibration settings.
+* **Series 1 to 4**: tone curve, colour, saturation, luminance, split toning, and camera calibration settings. These are probably what you're thinking of when you think "Lightroom presets".
 * **Vignetting**: post-crop effects to add shadows independently of other treatments.
 
 Presets in each category do not affect the settings of any other. This modular approach facilitates easier batch processing. An example: you can select a bunch of photos and adjust noise reduction or vignetting without affecting the colour treatment.

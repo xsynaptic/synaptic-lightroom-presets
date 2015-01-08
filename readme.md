@@ -72,7 +72,7 @@ Here is an outline of my workflow:
 
 If you find these presets useful please consider making a donation! Not only do I give my presets away but my photos are also released under a Creative Commons license. My entire livelihood is based on free culture, in fact. This only works if people are generous! (Assuming, of course, that anyone derives value from my work.) Here are a variety of ways you can support me:
 
-* [Bitcoin](https://bitcoin.org/): **124wj2hgRo7vyJLi68VuEz6uGi5DJnNyQS**
+* [Bitcoin](https://bitcoin.org/): **1AkzqWAqsxedefHq9G4hcYTmhBWkmJfF14**
 * [Stellar](https://launch.stellar.org): **gpkNMoRefk8YV7PakSqyHEg1BNsmzAn4Ne**
 * Paypal:
 

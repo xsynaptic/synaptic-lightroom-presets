@@ -10,7 +10,7 @@ This is an evolving collection of presets for Adobe Lightroom 4+ that I regularl
 
 If you are upgrading I **strongly** recommend deleting every `Synaptic Presets` directory (unless you have made modifications of your own, of course). I regularly rename or delete existing presets and folders as I work and simply overwriting files won't necessarily give you the most current collection of presets. The latest version always represents the most finely tuned and current set of presets from my collection.
 
-If you plan to modify my presets for your own usage but wish to remain up to date with new releases I suggest *forking this project* and [learning the ins and outs of GitHub](https://try.github.io).
+Of course, if you know your way around the command line you would be much better off cloning the repo or installing with Bower: `bower install synaptic-lightroom-presets`. It is beyond the scope of this document to explain how to use these tools but I can assure you it is worthwhile learning how to do this sort of thing. You can also set things up so you can modify these presets and still merge updates by *forking this project* and [learning the ins and outs of GitHub](https://try.github.io).
 
 ## USAGE
 
@@ -66,7 +66,7 @@ Here is an outline of my workflow:
 
 [Additional samples are available on the release announcement on my blog](http://synapticism.com/synaptic-lightroom-presets-1).
 
-**For even more examples of my work in Lightroom check out [Synapticism](http://synapticism.com/meta/photography), my regularly updated photo blog; [Synaptic Imagery](http://synapticimagery.com), my semi-professional photography homepage; [Flickr](http://www.flickr.com/photos/synapticism); and [Facebook](https://www.facebook.com/synaptic.imagery).**
+**For even more examples of my work in Lightroom check out [Synapticism](http://synapticism.com/meta/photography), my regularly updated photo blog; [Flickr](http://www.flickr.com/photos/synapticism); and [Facebook](https://www.facebook.com/synaptic.imagery).**
 
 ## DONATIONS
 
@@ -84,7 +84,7 @@ Please visit [Reddit](http://www.reddit.com/r/Lightroom) or [Flickr](http://www.
 
 ## LICENSE
 
-Imagery copyright 2013-2014 [Alexander Synaptic](http://alexandersynaptic.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
+Imagery copyright 2013-2015 [Alexander Synaptic](http://alexandersynaptic.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
 
 Please link back to [my web site](http://synapticism.com) and/or [this GitHub repository](https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets!
 

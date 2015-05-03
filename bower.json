@@ -1,0 +1,24 @@
+{
+  "name": "synaptic-lightroom-presets",
+  "homepage": "https://github.com/synapticism/synaptic-lightroom-presets",
+  "authors": [
+    "Alexander Synaptic <alexander@synapticism.com>"
+  ],
+  "description": "A collection of development presets for Adobe Lightroom",
+  "keywords": [
+    "lightroom",
+    "adobe",
+    "photography",
+    "photo",
+    "photos",
+    "presets"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

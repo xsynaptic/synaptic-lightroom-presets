@@ -78,7 +78,7 @@ Here is an outline of my workflow:
 
 ## DONATIONS
 
-If you find these presets useful please consider making a donation! Not only do I give my presets away but my photos are also released under a Creative Commons license. My entire livelihood is based on free culture, in fact. This only works if people are generous! (Assuming, of course, that anyone derives value from my work.) Here are a variety of ways you can support me:
+If you find these presets useful please consider making a donation! Here are a variety of ways you can show your support:
 
 * [Bitcoin](https://bitcoin.org/): **1AkzqWAqsxedefHq9G4hcYTmhBWkmJfF14**
 * [Stellar](https://launch.stellar.org): **gpkNMoRefk8YV7PakSqyHEg1BNsmzAn4Ne**
@@ -96,7 +96,7 @@ Please visit [Reddit](http://www.reddit.com/r/Lightroom) or [Flickr](http://www.
 
 ## LICENSE
 
-Imagery copyright 2013-2015 [Alexander Synaptic](http://synapticism.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
+Imagery copyright 2013-2016 [Alexander Synaptic](http://synapticism.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
 
 Please link back to [my web site](http://synapticism.com) and/or [this GitHub repository](https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets!
 

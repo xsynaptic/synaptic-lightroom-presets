@@ -8,7 +8,7 @@ This is an evolving collection of presets for Adobe Lightroom 4+ that I regularl
 
 ## INSTALLATION
 
-[Download and unpack this archive](https://github.com/synapticism/synaptic-lightroom-presets/archive/master.zip) and copy the folders beginning with `Synaptic Presets` to your Lightroom 4+ presets folder. To find your presets folder try searching your system for `Develop Presets`. Alternately, open up `Preferences`, select the `Presets` tab, and click on `Show Lightroom Presets Folder`. The `Synaptic Presets` folders should be copied into `Develop Presets`.
+[Download and unpack this archive](https://github.com/xsynaptic/synaptic-lightroom-presets/archive/master.zip) and copy the folders beginning with `Synaptic Presets` to your Lightroom 4+ presets folder. To find your presets folder try searching your system for `Develop Presets`. Alternately, open up `Preferences`, select the `Presets` tab, and click on `Show Lightroom Presets Folder`. The `Synaptic Presets` folders should be copied into `Develop Presets`.
 
 If you are upgrading I **strongly** recommend deleting every `Synaptic Presets` directory (unless you have made modifications of your own, of course). I regularly rename or delete existing presets and folders as I work and simply overwriting files won't necessarily give you the most current collection of presets. The latest version always represents the most finely tuned and current set of presets from my collection.
 
@@ -70,9 +70,7 @@ Here is an outline of my workflow:
 
 ![Synaptic Lightroom Presets Sample - Maokong](/Samples/synaptic-lightroom-presets-sample-maokong.jpg "Synaptic Lightroom Presets Sample - Maokong")
 
-[Additional samples are available on the release announcement on my blog](http://synapticism.com/synaptic-lightroom-presets-1).
-
-**For even more examples of my work in Lightroom check out [Synapticism](http://synapticism.com/meta/photography), my regularly updated photo blog; [Flickr](http://www.flickr.com/photos/synapticism); and [Facebook](https://www.facebook.com/synaptic.imagery).**
+**For even more examples of my work in Lightroom check out [Spectral Codex](https://spectralcodex.com).**
 
 
 
@@ -81,7 +79,6 @@ Here is an outline of my workflow:
 If you find these presets useful please consider making a donation! Here are a variety of ways you can show your support:
 
 * [Bitcoin](https://bitcoin.org/): **1AkzqWAqsxedefHq9G4hcYTmhBWkmJfF14**
-* [Stellar](https://launch.stellar.org): **gpkNMoRefk8YV7PakSqyHEg1BNsmzAn4Ne**
 * Paypal:
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5KKQP6YJ5PUJ)
@@ -90,14 +87,14 @@ If you find these presets useful please consider making a donation! Here are a v
 
 ## SUPPORT
 
-Please visit [Reddit](http://www.reddit.com/r/Lightroom) or [Flickr](http://www.flickr.com/groups/adobe_lightroom/) for general help with Lightroom. [Find me on Twitter](https://twitter.com/Synapticism) if you have any specific questions about using these presets.
+Please visit [Reddit](http://www.reddit.com/r/Lightroom) or [Flickr](http://www.flickr.com/groups/adobe_lightroom/) for general help with Lightroom. [Find me on Twitter](https://twitter.com/spectralcodex) if you have any specific questions about using these presets.
 
 
 
 ## LICENSE
 
-Imagery copyright 2013-2016 [Alexander Synaptic](http://synapticism.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
+Imagery copyright 2013-2016 [Alexander Synaptic](https://spectralcodex.com); permission is granted to reuse these images to promote this preset library as long as proper credit and a link back is given. Presets licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html): http://www.gnu.org/licenses/gpl.txt
 
-Please link back to [my web site](http://synapticism.com) and/or [this GitHub repository](https://github.com/synapticism/synaptic-lightroom-presets) if you make use of these presets!
+Please link back to [my web site](https://spectralcodex.com) and/or [this GitHub repository](https://github.com/xsynaptic/synaptic-lightroom-presets) if you make use of these presets!
 
 *Redistribution of these presets is strongly discouraged.* I would much rather you link back to this repository so that anyone interested in these presets can download the latest version. *Thanks!*
